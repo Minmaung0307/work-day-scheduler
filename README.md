@@ -36,8 +36,3 @@ a simple calendar application that allows a user to save events for each hour of
 - Each time block has an input field and save button where users can store their schedule.
 - Once it saved, it will store in their local storage.
 - This calendar is desktop and mobile compatible.
-
-## Mock-Up
-![](assets/images/05-third-party-apis-homework-demo.gif)
-- - -
-
